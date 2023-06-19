@@ -35,12 +35,14 @@ The dashboard is built with **Laravel + FilamentPHP**.
 
 | Date       | Commit Description                                          |
 | ---------- | ----------------------------------------------------------- |
-| 2023-12-05 | Initial Filament setup and basic admin layout               |
-| 2023-12-15 | Added Projects module                                       |
-| 2024-01-03 | Added Team and Users modules with authentication            |
-| 2024-01-12 | Added Clients’ Opinions section                             |
-| 2024-01-18 | Added Contact Us form with automatic email sending to Gmail |
-| 2024-01-20 | Added this README file with full documentation              |
+| 2023-05-12 | Initial Filament setup and basic admin layout               |
+| 2023-05-15 | Added Projects module                                       |
+| 2023-06-03 | Added Team and Users modules with authentication            |
+| 2023-06-12 | Added Clients’ Opinions section                             |
+| 2023-06-18 | Added Contact Us form with automatic email sending to Gmail |
+| 2023-06-20 | Added this README file with full documentation              |
+
+
 
 ---
 
